@@ -1,0 +1,16 @@
+{
+  "name": "handson_3",
+  "version": "1.0.0",
+  "description": "Create two middlewares one should be applicable to all the routes present in backend application is containing and other should be applicable to any 2 specific routes ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hrishabh Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
